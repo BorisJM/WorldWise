@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Schmogrow-Fehrow",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-07-08T21:20:36.755Z",
+      "notes": "",
+      "position": {
+        "lat": "51.86292391360244",
+        "lng": "14.216308593750002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Kuhfelde",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-07-08T21:47:39.351Z",
+      "notes": "22",
+      "position": {
+        "lat": "52.74959372674117",
+        "lng": "11.0302734375"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Balearic Islands",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-08T21:49:11.839Z",
+      "notes": "",
+      "position": {
+        "lat": "39.232253141714914",
+        "lng": "1.3623046875000002"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Cremps",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-07-08T21:49:23.557Z",
+      "notes": "",
+      "position": {
+        "lat": "44.402391829093915",
+        "lng": "1.5820312500000002"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Mogadouro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-07-09T14:48:38.729Z",
+      "notes": "",
+      "position": {
+        "lat": "41.343824581185714",
+        "lng": "-6.745605468750001"
+      },
+      "id": 5
+    }
+  ]
+}
